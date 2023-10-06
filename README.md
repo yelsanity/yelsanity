@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm John Oryel! <br/><a href="https://github.com/yelsanity/yelsanity.git">Programmer</a>, <a href="www.linkedin.com/in/john-oryel-rubi-45ba87233">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
