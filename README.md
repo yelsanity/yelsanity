@@ -17,7 +17,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
-<h2> 📜 Certificates:</h2>
+<h2> 📜 Certifications:</h2>
 
 - <b> Cyber Security Certificates </b>
   - [CompTIA Security Plus](https://www.credly.com/badges/bb6109e3-b2ac-44a3-89c8-cb561f28a99c)
