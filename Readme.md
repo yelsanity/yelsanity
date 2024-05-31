@@ -11,6 +11,7 @@
   - [CompTIA Security Plus](https://www.credly.com/badges/bb6109e3-b2ac-44a3-89c8-cb561f28a99c)
   - [Google Cyber Security](https://www.credly.com/badges/c02cf71a-3a6e-4f6f-8eb6-dfa4ab9c896c/linked_in?t=s1um5r)
   - [AttaqIQ foundation to MITRE ATT&CK Framework]
+  - (TryHackme]SOC lvl 1 
 
 
 <!--
