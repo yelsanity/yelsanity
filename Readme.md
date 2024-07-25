@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Threat Identification</b>
-  - [Identifiying a Phishing E-mail](https://github.com/yelsanity/Phishing-E-mail/blob/main/README.md)
+  - [Phishing Analysis](https://github.com/yelsanity/Phishing-E-mail/blob/main/README.md)
  
 <h2> 📜 Certifications:</h2>
 
