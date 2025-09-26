@@ -1,4 +1,4 @@
-<h1>Hi, I'm John Oryel! <br/><a href="https://github.com/yelsanity/yelsanity.git"></a> <a href="www.linkedin.com/in/john-oryel-rubi-45ba87233">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm John Oryel! <br/><a href="https://github.com/yelsanity/yelsanity.git"></a> <a href="www.linkedin.com/in/john-oryel-rubi-45ba87233"></a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
