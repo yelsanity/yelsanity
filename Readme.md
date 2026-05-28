@@ -19,6 +19,5 @@ informed decision-making.
 
 | Category | Tools |
 |---|---|
-| Data Preparation | Excel, Power Query, SQL, DBT |
+| Data Preparation | Excel, Power Query, SQL |
 | Visualization | Power BI, Tableau |
-| Programming | Python |
